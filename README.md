@@ -1,6 +1,6 @@
 # Sales Analysis Using Excel: Vrinda Store (2022)
 
-![Visual]()
+![Visual](Visual Pic 1.png)
 
 ##📊 Overview
 This analysis provides detailed insights into the sales and orders of Vrinda Store for 2022. It identifies key customer segments, geographic performance, and actionable strategies to boost sales.
